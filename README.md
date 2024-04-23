@@ -1,2 +1,2 @@
-# ShalvasWheels 
-shalva Midelauri
+# ShalvasWheels - Find your car...
+Welcome to the ShalvasWheels website. We provide convenient and affordable car rental services in Georgia.
